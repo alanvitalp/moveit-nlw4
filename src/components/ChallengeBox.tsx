@@ -8,12 +8,12 @@ export function ChallengeBox () {
   const { activeChallenge, resetChallenge, completeChallenge } = useContext(ChallengesContext);
   const { resetCountdown } = useContext(CountdownContext);
 
-  const handleChallengeSucceeded = () => {
+  function handleChallengeSucceeded() {
     completeChallenge();
     resetChallenge();
   }
 
-  const handleChallengeFailed = () => {
+  function handleChallengeFailed() {
     resetChallenge();
     resetCountdown();
   }

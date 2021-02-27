@@ -32,7 +32,6 @@ export function Countdown () {
         </div>
       </div>
 
-
       {hasFinished ? (
         <button
         disabled

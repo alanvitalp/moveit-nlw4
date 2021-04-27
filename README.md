@@ -4,8 +4,8 @@
 
 <img src="public/images/Captura%20de%20tela%20de%202021-04-26 23-47-10.png">
 
-<img src="images/Captura%20de%20tela%20de%202021-04-26 23-55-10.png">
+<img src="public/images/Captura%20de%20tela%20de%202021-04-26 23-55-10.png">
 
-<img src="images/Captura de tela de 2021-04-26 23-55-24.png>
+<img src="public/images/Captura%20de%20tela%20de%202021-04-26 23-55-24.png>
 
 
